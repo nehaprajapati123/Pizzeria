@@ -1,0 +1,213 @@
+*{
+    box-sizing:border-box;
+    /* border:2px solid black; */
+  text-align: justify;
+
+    
+}
+body{
+    margin:0;
+}
+.shoppingCart{
+  float: right;
+  margin: 20px;
+  background-color: #F9C70C;
+  color: aliceblue;
+  padding: 10px;
+  border: none;    
+
+}
+.PizzeriaText{
+  color:#7f7f7f;
+  margin-top: 20px;
+
+}
+.page3para{
+  text-align: center;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #111;
+   
+  }
+  
+  .link {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color:#7f7f7f;
+    text-align: center;
+    padding: 15px 20px;
+    text-decoration: none;
+
+
+  }
+  
+  li :hover {
+    color: #7f7f7f;
+  }
+
+
+  .grid{
+    max-width: 120rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .card{
+
+    padding: 2em;
+    padding-top: 0;
+    border: 1px solid #888;
+    padding-bottom: 120px;
+    margin-top: 0;
+    margin-bottom:10px ;
+    margin-left:10px ;
+    /* margin-right:10px ; */
+
+    
+  }
+
+  
+  .Add{
+    color: #F9C70C;
+  }
+  .BuildButton{
+    color: #F9C70C;
+    background-color: #111;
+    border-color: #F9C70C;
+    padding: 7px;
+    width: 200px;
+  border-radius: 10px;   
+  text-align: center;
+  margin-left: 29rem;
+  margin-bottom: 20px;
+  
+  }
+  
+ 
+  .page1AddToCart{
+    position: absolute;
+    margin-left: 380px;
+    margin-top: 180px;
+    width: 20%;
+  }
+ 
+.div3{
+  float: right;
+}
+.nav2h2{
+  position: absolute;
+  display: inline;
+
+  margin-bottom: 700px;
+  margin-left: 150px;
+
+}
+.nav2p{  
+  position: absolute;
+  width: 50%;
+  display: inline;
+  margin-left: 150px;
+  margin-top: 80px;
+  float: right;
+
+}
+
+
+.page2divs{
+  width: 30%;
+  margin: 10px;
+}
+
+
+
+.flex-container > div {
+  text-align: left;
+  line-height: 60px;
+  font-size: 30px;
+}
+.paradiv{
+  position: absolute;
+  margin-left: 150px;
+
+}
+.imgdiv{
+  position: absolute;
+  margin-left: 350px;
+
+}
+
+.page2h5{
+  margin-top: 20px;
+}
+#mainPage{
+ margin: 10px;
+ /* border: 2pm solid rgb(99, 97, 97); */
+}
+
+ 
+.nav1h1{
+  text-align: center;
+}
+
+.nav3{
+  position: absolute;
+  margin-top: 1px;
+  /* display: inline; */
+  
+}
+/* .div4{ */
+  /* position: absolute; */
+  /* margin-left: 500px; */
+  /* float: right; */
+  
+/* } */
+.img2{
+  width: 25%;
+}
+
+.chiefImg{
+  position: absolute;
+  margin-left: 50rem;
+  margin-top: 10px;
+}
+
+.div5h2{
+  margin-top: 10px;
+}
+.nav3p{
+  width: 50%;
+}
+/* .nav4{
+  position: absolute;
+} */
+.nav4img{
+  margin-top: 230px;
+  display: inline;
+}
+.nav4h2{
+  position: absolute;
+  margin-left: 20rem;
+  margin-top: 18rem;
+}
+
+.page3h1{
+  color: rgb(71, 37, 144);
+  text-align: center;
+margin-bottom: 20px;
+}
+
+
+
+/* .tdClick{
+  display: inline;
+
+} */
